@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
+- 👀 I’m interested in electronics, mircoprocessor systems (ARM Cortex-M), IoT and PCB Design. 
+- 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
+- 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
+- 📫 You can reach me out via email wajahatriazmirza@gmail.com
