@@ -1,14 +1,21 @@
-Hi 👋 My name is Wajahat Riaz
+# Hi 👋 My name is Wajahat Riaz
 =====================================
-Electronics and Embedded Systems Engineer
+## Electronics and Embedded Systems Engineer
 ------------------------------------
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
+- 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
+- 🌍  I'm based in Lahore, Pakistan.
+- ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
+- 👀 I’m interested in electronics, mircoprocessor systems (ARM Cortex-M), IoT and PCB Design. 
+- 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
+- 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
+- 📫 You can reach me out via email wajahatriazmirza@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=wajahatriaz&label=PROFILE+VIEWS)
 
 <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+## Education
 
 | **Degree**                                  | **Institute**                          | **Location**     | **Year**       |
 |---------------------------------------------|----------------------------------------|------------------|----------------|
@@ -19,15 +26,38 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 
 
 
-- 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
-- 👀 I’m interested in electronics, mircoprocessor systems (ARM Cortex-M), IoT and PCB Design. 
-- 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
-- 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
-- 📫 You can reach me out via email wajahatriazmirza@gmail.com
 
 
+## Internships
 
-### Badges
+**May 2022 – Present 
+Siemens Digital Industries Software Private Limited 
+Nucleus Connectivity/Kernel Engineer** 
+I’m currently working as an intern at Siemens Digital Industries Software Private Limited (formerly known as Mentor 
+Graphics) in their Nucleus Connectivity/Kernel Team. Nucleus is a Real-Time Operating System (RTOS) that enables 
+system developers to address the complex requirements demanded by today’s advanced embedded designs. Nucleus 
+brings kernel-rich functionality and tooling features ideal for applications where a scalable footprint, connectivity, 
+security, power management, and deterministic performance are essential.  
+
+**January 2022 – May 2022 
+Wateen Telecom Private Limited 
+Transmission Network Operations Executive (NOC) Executive** 
+Intern at Wateen Telecom Private Limited in Network Services and Strategic Department. I’m receiving training for the 
+position of Transmission NOC Executive. My primary objectives are to understand Dense Wavelength Division 
+Multiplexing (DWDM) and Synchronous Digital Hierarchy (SDH) technologies and their implementations on 
+Huawei’s network management system iMaster NCE.  
+
+**June 2019 – August 2019 
+Lahore Electric Supply Company (LESCO) 
+Manager Operations / Intern** 
+Gained practical knowledge about how power stations operate. Trained to simulate electric power transmission 
+networks in steady-state conditions as well as over time scales of a few seconds to tens of seconds by using Power 
+System Simulator for Engineering (PSS/E) which is a high-performance transmission planning and analysis software. 
+Gained a brief overview of GIS-based power stations which emphasized the development of smart and dependable 
+power systems. 
+
+
+## Badges
 
 <b>My GitHub Stats</b>
 
@@ -39,7 +69,7 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 
 
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/wajahatriaz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
