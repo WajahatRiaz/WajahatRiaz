@@ -16,6 +16,12 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 - 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
 - 📫 You can reach me out via email wajahatriazmirza@gmail.com
 
+
+* 🌍  I'm based in Lahore, Pakistan
+* ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
+
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
