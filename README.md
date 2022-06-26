@@ -92,10 +92,9 @@ power systems.
 ## Verify Me
 
 ![image](https://user-images.githubusercontent.com/61377755/175809215-deccffed-84f7-4e74-9a52-df74ff80f261.png)
+
 PEC Registered Engineer 
-
 ELECT/85875 
-
 (Scan to Verify) 
 
 ## Support Me
