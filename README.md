@@ -1,12 +1,21 @@
 Hi 👋 My name is Wajahat Riaz
 =====================================
-
 Electronics and Embedded Systems Engineer
 ------------------------------------
+* 🌍  I'm based in Lahore, Pakistan
+* ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
+
 ![](https://komarev.com/ghpvc/?username=wajahatriaz&label=PROFILE+VIEWS)
 
 <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+| **Degree**                                  | **Institute**                          | **Location**     | **Year**       |
+|---------------------------------------------|----------------------------------------|------------------|----------------|
+| Masters in  Electrical Engineering          | University of Engineering & Technology | Lahore, Pakistan | Present        |
+| Bachelors in  Electrical Engineering        | University of Engineering & Technology | Lahore, Pakistan | August 2020    |
+| Intermediate  Pre-Engineering & Pre-Medical | Forman Christian College               | Lahore, Pakistan | September 2016 |
+| Matriculation  Science Group                | Laurelbank Public School               | Lahore, Pakistan | July 2012      |
 
 
 
@@ -15,10 +24,6 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 - 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
 - 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
 - 📫 You can reach me out via email wajahatriazmirza@gmail.com
-
-
-* 🌍  I'm based in Lahore, Pakistan
-* ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
 
 
 
