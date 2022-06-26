@@ -89,7 +89,7 @@ power systems.
 <a href="http://www.github.com/wajahatriaz"><img src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ## Verify Me
-![frame](https://user-images.githubusercontent.com/61377755/175809685-912ffecb-1221-4f19-b75b-9adc8a7bc494.png)<br>
+![frame](https://use![ELECT_85875_](https://user-images.githubusercontent.com/61377755/175809849-2ff6abdb-3f54-4526-8352-18e4675d4403.svg)<br>
 
 PEC Registered Engineer <br>
 ELECT/85875 <br>
