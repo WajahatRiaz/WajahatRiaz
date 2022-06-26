@@ -1,14 +1,13 @@
-# Hi 👋 My name is Wajahat Riaz
+Hi 👋 My name is Wajahat Riaz
 =====================================
 Electronics and Embedded Systems Engineer
 ------------------------------------
 - 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
-- 🌍  I'm based in Lahore, Pakistan.
-- ✉️  You can contact me at [wajahatriazmirza@gmail.com](mailto:wajahatriazmirza@gmail.com)
+- 🌍  I'm based in Lahore, Pakistan. 
+ - 📫 You can reach me out via email wajahatriazmirza@gmail.com
 - 👀 I’m interested in electronics, mircoprocessor systems (ARM Cortex-M), IoT and PCB Design. 
 - 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
 - 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
-- 📫 You can reach me out via email wajahatriazmirza@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=wajahatriaz&label=PROFILE+VIEWS)
 
@@ -57,17 +56,17 @@ power systems.
 
 ## Relevant Skills  
 
-• Proficient in embedded C/C++ language. 
-• Skillful in hardware description languages like Verilog and SystemVerilog. 
-• Some knowledge of verification technologies like UVM. 
-• Familiar with digital IC design flow using open source tools like OpenLane. 
-• Familiar with assembly language for ARM Cortex-M processor family and RISC-V. 
-• Experienced in ARM Cortex-M series of microcontrollers and development boards. 
-• Experience in development environments like Keil uVision5, STM32CubeIDE, SiFive’s FreedomStudio, etc. 
-• Comfortable in real-time operating systems like Nucleus RTOS. 
-• Familiar with serial communication protocols like UART, SPI, I2C, USB, etc. 
-• Experience in network protocols and stacks like TCP/IP, OSI, TCP, UDP, HTTP, IPv4, IPv6, etc. 
-• Familiar with the software development lifecycle and version control via Github. 
+• Proficient in embedded C/C++ language. <br>
+• Skillful in hardware description languages like Verilog and SystemVerilog. <br>
+• Some knowledge of verification technologies like UVM. <br>
+• Familiar with digital IC design flow using open source tools like OpenLane. <br>
+• Familiar with assembly language for ARM Cortex-M processor family and RISC-V. <br>
+• Experienced in ARM Cortex-M series of microcontrollers and development boards. <br>
+• Experience in development environments like Keil uVision5, STM32CubeIDE, SiFive’s FreedomStudio, etc. <br>
+• Comfortable in real-time operating systems like Nucleus RTOS. <br>
+• Familiar with serial communication protocols like UART, SPI, I2C, USB, etc. <br>
+• Experience in network protocols and stacks like TCP/IP, OSI, TCP, UDP, HTTP, IPv4, IPv6, etc. <br>
+• Familiar with the software development lifecycle and version control via Github. <br>
  
 ## Soft Skills
 
@@ -91,11 +90,11 @@ power systems.
 
 ## Verify Me
 
-![image](https://user-images.githubusercontent.com/61377755/175809215-deccffed-84f7-4e74-9a52-df74ff80f261.png)
+![image](https://user-images.githubusercontent.com/61377755/175809215-deccffed-84f7-4e74-9a52-df74ff80f261.png)<br>
 
-PEC Registered Engineer 
-ELECT/85875 
-(Scan to Verify) 
+PEC Registered Engineer <br>
+ELECT/85875 <br>
+(Scan to Verify) <br>
 
 ## Support Me
 
