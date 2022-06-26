@@ -33,6 +33,7 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 **May 2022 – Present 
 Siemens Digital Industries Software Private Limited 
 Nucleus Connectivity/Kernel Engineer** 
+
 I’m currently working as an intern at Siemens Digital Industries Software Private Limited (formerly known as Mentor 
 Graphics) in their Nucleus Connectivity/Kernel Team. Nucleus is a Real-Time Operating System (RTOS) that enables 
 system developers to address the complex requirements demanded by today’s advanced embedded designs. Nucleus 
@@ -41,7 +42,8 @@ security, power management, and deterministic performance are essential.
 
 **January 2022 – May 2022 
 Wateen Telecom Private Limited 
-Transmission Network Operations Executive (NOC) Executive** 
+Transmission Network Operations Executive (NOC) Executive**
+
 Intern at Wateen Telecom Private Limited in Network Services and Strategic Department. I’m receiving training for the 
 position of Transmission NOC Executive. My primary objectives are to understand Dense Wavelength Division 
 Multiplexing (DWDM) and Synchronous Digital Hierarchy (SDH) technologies and their implementations on 
@@ -50,6 +52,7 @@ Huawei’s network management system iMaster NCE.
 **June 2019 – August 2019 
 Lahore Electric Supply Company (LESCO) 
 Manager Operations / Intern** 
+
 Gained practical knowledge about how power stations operate. Trained to simulate electric power transmission 
 networks in steady-state conditions as well as over time scales of a few seconds to tens of seconds by using Power 
 System Simulator for Engineering (PSS/E) which is a high-performance transmission planning and analysis software. 
