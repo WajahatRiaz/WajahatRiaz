@@ -8,12 +8,6 @@ Electronics and Embedded Systems Engineer
 <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<p align="left"> <a <img src=(https://user-images.githubusercontent.com/61377755/175808257-e4f707c5-d7ed-4a50-9dd9-00228b1ecc6c.svg)" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wajahat-riaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
-
-
-![c](https://user-images.githubusercontent.com/61377755/175808267-4d669c9d-2030-454f-9433-0c0ac6e439cd.svg)
-
 
 
 - 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
@@ -21,3 +15,20 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 - 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
 - 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
 - 📫 You can reach me out via email wajahatriazmirza@gmail.com
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-stats.vercel.app/api?username=wajahatriaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wajahat's GitHub stats" /></a>
+
+<a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatriaz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/wajahatriaz"><img src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/wajahatriaz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
