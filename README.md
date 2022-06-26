@@ -6,7 +6,7 @@ Electronics and Embedded Systems Engineer
 ![](https://komarev.com/ghpvc/?username=wajahatriaz&label=PROFILE+VIEWS)
 
 <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hemansnation?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 - 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
