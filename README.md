@@ -71,14 +71,14 @@ power systems.
  
 ## Soft Skills
 
-• Adaptability 
-• Proactive 
-• Synergy 
-• Willingness to learn 
-• Strong belief in sharing 
-• Effective communication 
-• Good documentation 
-• Public speaking 
+• Adaptability <br>
+• Proactive <br>
+• Synergy <br>
+• Willingness to learn <br>
+• Strong belief in sharing <br>
+• Effective communication <br>
+• Good documentation <br>
+• Public speaking <br>
 
 
 ## Github Status
