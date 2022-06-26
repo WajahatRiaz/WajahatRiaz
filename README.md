@@ -90,7 +90,8 @@ power systems.
 
 ## Verify Me
 
-<img src="[drawing.jpg](https://user-images.githubusercontent.com/61377755/175809869-d37be4e1-74c7-4492-a250-19d885016153.svg)" alt="drawing" width="10"/>
+<img src="https://user-images.githubusercontent.com/61377755/175809869-d37be4e1-74c7-4492-a250-19d885016153.svg" width="30" />
+
 PEC Registered Engineer <br>
 ELECT/85875 <br>
 (Scan to Verify) <br>
