@@ -1,6 +1,6 @@
 # Hi 👋 My name is Wajahat Riaz
 =====================================
-## Electronics and Embedded Systems Engineer
+Electronics and Embedded Systems Engineer
 ------------------------------------
 - 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
 - 🌍  I'm based in Lahore, Pakistan.
@@ -23,10 +23,6 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 | Bachelors in  Electrical Engineering        | University of Engineering & Technology | Lahore, Pakistan | August 2020    |
 | Intermediate  Pre-Engineering & Pre-Medical | Forman Christian College               | Lahore, Pakistan | September 2016 |
 | Matriculation  Science Group                | Laurelbank Public School               | Lahore, Pakistan | July 2012      |
-
-
-
-
 
 ## Internships
 
@@ -59,10 +55,33 @@ System Simulator for Engineering (PSS/E) which is a high-performance transmissio
 Gained a brief overview of GIS-based power stations which emphasized the development of smart and dependable 
 power systems. 
 
+## Relevant Skills  
 
-## Badges
+• Proficient in embedded C/C++ language. 
+• Skillful in hardware description languages like Verilog and SystemVerilog. 
+• Some knowledge of verification technologies like UVM. 
+• Familiar with digital IC design flow using open source tools like OpenLane. 
+• Familiar with assembly language for ARM Cortex-M processor family and RISC-V. 
+• Experienced in ARM Cortex-M series of microcontrollers and development boards. 
+• Experience in development environments like Keil uVision5, STM32CubeIDE, SiFive’s FreedomStudio, etc. 
+• Comfortable in real-time operating systems like Nucleus RTOS. 
+• Familiar with serial communication protocols like UART, SPI, I2C, USB, etc. 
+• Experience in network protocols and stacks like TCP/IP, OSI, TCP, UDP, HTTP, IPv4, IPv6, etc. 
+• Familiar with the software development lifecycle and version control via Github. 
+ 
+## Soft Skills
 
-<b>My GitHub Stats</b>
+• Adaptability 
+• Proactive 
+• Synergy 
+• Willingness to learn 
+• Strong belief in sharing 
+• Effective communication 
+• Good documentation 
+• Public speaking 
+
+
+## Github Status
 
 <a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-stats.vercel.app/api?username=wajahatriaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wajahat's GitHub stats" /></a>
 
@@ -70,7 +89,14 @@ power systems.
 
 <a href="http://www.github.com/wajahatriaz"><img src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+## Verify Me
 
+![image](https://user-images.githubusercontent.com/61377755/175809215-deccffed-84f7-4e74-9a52-df74ff80f261.png)
+PEC Registered Engineer 
+
+ELECT/85875 
+
+(Scan to Verify) 
 
 ## Support Me
 
