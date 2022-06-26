@@ -94,7 +94,7 @@ power systems.
 
 ##  Verify Me
 <img src="https://user-images.githubusercontent.com/61377755/175810188-8200c973-8b1d-4a49-85a5-68f7b2bc6633.svg" width="150" /> <br>
-I'm a PEC Registered Engineer. Scan to verify me: ELECT/85875
+I'm a PEC Registered Engineer: ELECT/85875.<br> Scan to verify me.
 
 ## Support Me
 <a href="https://www.buymeacoffee.com/wajahatriaz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
