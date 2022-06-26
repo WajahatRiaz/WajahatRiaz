@@ -9,6 +9,8 @@ Electronics and Embedded Systems Engineer
 src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <p align="left"> <a <img src="https://user-images.githubusercontent.com/61377755/175808257-e4f707c5-d7ed-4a50-9dd9-00228b1ecc6c.svg " width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wajahat-riaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+![c](https://user-images.githubusercontent.com/61377755/175808267-4d669c9d-2030-454f-9433-0c0ac6e439cd.svg)
+
 
 
 - 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
