@@ -1,13 +1,17 @@
-Hi 👋 My name is Wajahat Riaz
+Hi! My name is Wajahat Riaz
 =====================================
 Electronics and Embedded Systems Engineer
 ------------------------------------
-- 👋 Hi, I’m Wajahat Riaz, I'm an Electrical Engineer. I have done my bachelors from University of Engineering & Technology Lahore Pakistan.
-- 🌍  I'm based in Lahore, Pakistan. 
+
+- 👋 I’m an ingenious and devoted electronics and embedded systems engineer. I’m currently pursuing a master’s degree 
+from the University of Engineering and Technology Lahore, specializing in SoC design and verification. 
+- 👀 I'm actively seeking potential full-time, part-time, and remote roles as an IC Design and Verification Engineer to push forward my 
+skillset.
+- 🌱 I’m also looking to collaborate on various projects related to electronics and embedded systems.
+- 💞️ I have a strong work ethic, which makes me capable of working both in a team and individually. 
+- 🌍  I'm based in Lahore, Pakistan but I'm willing to relocate. 
  - 📫 You can reach me out via email wajahatriazmirza@gmail.com
 - 👀 I’m interested in electronics, mircoprocessor systems (ARM Cortex-M), IoT and PCB Design. 
-- 🌱 I’m currently learning RISC-V ISA and how it's revolutionizing preindustrial norms.
-- 💞️ I’m looking to collaborate on various projects related to electronics and embedded systems.
 
 ![](https://komarev.com/ghpvc/?username=wajahatriaz&label=PROFILE+VIEWS)
 
@@ -84,7 +88,7 @@ power systems.
 
 <a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-stats.vercel.app/api?username=wajahatriaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Wajahat's GitHub stats" /></a>
 
-<a align= "center" href="http://www.github.com/wajahatriaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatriaz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatriaz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/wajahatriaz"><img src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
@@ -93,6 +97,5 @@ power systems.
 I'm a PEC Registered Engineer. Scan to verify me: ELECT/85875
 
 ## Support Me
-
 <a href="https://www.buymeacoffee.com/wajahatriaz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
