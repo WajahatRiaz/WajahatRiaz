@@ -94,7 +94,7 @@ power systems.
  
 <a href="http://www.github.com/wajahatriaz"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatriaz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/wajahatriaz"><img src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/wajahatriaz"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=wajahatriaz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ##  Verify Me
 <img src="https://user-images.githubusercontent.com/61377755/175810188-8200c973-8b1d-4a49-85a5-68f7b2bc6633.svg" width="150" /> <br>
