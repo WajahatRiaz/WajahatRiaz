@@ -43,7 +43,7 @@ brings kernel-rich functionality and tooling features ideal for applications whe
 security, power management, and deterministic performance are essential.  
 
 **January 2022 – May 2022** <br>
-**Wateen Telecom Private Limited ** <br>
+**Wateen Telecom Private Limited** <br>
 **Transmission Network Operations Executive (NOC) Executive** <br>
 
 Intern at Wateen Telecom Private Limited in Network Services and Strategic Department. I’m receiving training for the 
