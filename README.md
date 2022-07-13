@@ -86,7 +86,6 @@ power systems.
 • Good documentation <br>
 • Public speaking <br>
 
-
 ## Github Status
 
  ![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatriaz&theme=black&show_icons=true) <br>
