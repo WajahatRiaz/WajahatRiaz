@@ -89,7 +89,7 @@ power systems.
 
 ## Github Status
 
- ![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatriaz&theme=default&show_icons=true) 
+ ![Wajahat's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajahatriaz&theme=default&show_icons=true) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wajahatriaz&langs_count=5)](https://github.com/wajahatriaz/github-readme-stats)
  
 <a href="http://www.github.com/wajahatriaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wajahatriaz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
