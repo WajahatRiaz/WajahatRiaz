@@ -87,6 +87,7 @@ power systems.
 • Public speaking <br>
 
 ##  Verify Me
+ ![image](https://user-images.githubusercontent.com/61377755/196789286-d7835f52-0060-4aba-9400-c13db8234348.png)
 <img src="https://user-images.githubusercontent.com/61377755/175810188-8200c973-8b1d-4a49-85a5-68f7b2bc6633.svg" width="150" /> <br>
 I'm a PEC Registered Engineer: ELECT/85875.<br> Scan to verify me.
 
