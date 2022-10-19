@@ -63,17 +63,18 @@ power systems.
 
 ## Relevant Skills  
 
-• Proficient in embedded C/C++ language. <br>
-• Skillful in hardware description languages like Verilog and SystemVerilog. <br>
-• Some knowledge of verification technologies like UVM. <br>
-• Familiar with digital IC design flow using open source tools like OpenLane. <br>
-• Familiar with assembly language for ARM Cortex-M processor family and RISC-V. <br>
-• Experienced in ARM Cortex-M series of microcontrollers and development boards. <br>
-• Experience in development environments like Keil uVision5, STM32CubeIDE, SiFive’s FreedomStudio, Sorcery Codebench etc. <br>
-• Comfortable in real-time operating systems like Nucleus RTOS. <br>
-• Familiar with serial communication protocols like UART, SPI, I2C, etc. <br>
-• Experience in network protocols and stacks like TCP/IP, TFPT, STP, etc. <br>
-• Familiar with the software development lifecycle and version control via Git. <br>
+• Proficient in C/C++ and Assembly language. <br>
+•	Experiences in hardware description and verification languages like Verilog HDL and SystemVerilog. <br>
+•	Novice in Python as a scripting language. <br>
+•	Familiar with ARM Cortex-M and ARM Cortex-A series of microcontrollers and development boards. <br>
+•	Experience in development environments like Sourcery Codebench, Keil uVision5, STM32CubeIDE, etc. <br>
+•	Strong knowledge of real-time operating systems like Nucleus and Zephyr. <br>
+•	Familiar with bootloaders like U-Boot. <br>
+•	Experience in developing real-time applications for connectivity protocols like UART, SPI, I2C, etc. <br>
+•	Experience in basic network protocols and stacks like TCP/IP, TFTP, DHCP, STP, etc. <br>
+•	Accustomed to the software development life cycle and version control via Git. <br>
+•	Familiar with developing daily automated tests in Jenkins. <br>
+
  
 ## Soft Skills
 
