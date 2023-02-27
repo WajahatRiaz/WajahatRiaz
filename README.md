@@ -30,9 +30,15 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 | Intermediate  Pre-Engineering & Pre-Medical | Forman Christian College               | Lahore, Pakistan | September 2016 |
 | Matriculation  Science Group                | Laurelbank Public School               | Lahore, Pakistan | July 2012      |
 
-## Internships
+## Experience
 
-**May 2022 – Present** <br>
+ **February 2023 – Present** <br>
+**10xEngineers Technologies** <br>
+**Research Fellow/Graduate Intern** <br>
+
+Can't wait to see what this year holds for me. Wish me luck.
+ 
+**May 2022 – September 2022** <br>
 **Siemens Digital Industries Software Private Limited** <br>
 **Nucleus Connectivity/Kernel Engineer** <br>
 
