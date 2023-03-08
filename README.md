@@ -32,15 +32,21 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 
 ## Experience
 
- **February 2023 – Present** <br>
+**March 2023 – Present** <br>
 **10xEngineers Technologies** <br>
-**Research Fellow/Graduate Intern** <br>
+**Trainee Engineer** <br>
 
-Can't wait to see what this year holds for me. Wish me luck.
+Learning...
+ 
+**February 2023 – March 2023** <br>
+**10xEngineers Technologies** <br>
+**Semiconductor Industry Fellowship: Intern** <br>
+
+Can't wait to see what this year holds for me. Wish me luck!
  
 **May 2022 – September 2022** <br>
 **Siemens Digital Industries Software Private Limited** <br>
-**Nucleus Connectivity/Kernel Engineer** <br>
+**Nucleus Connectivity/Kernel Team: Intern** <br>
 
 I’m currently working as an intern at Siemens Digital Industries Software Private Limited (formerly known as Mentor 
 Graphics) in their Nucleus Connectivity/Kernel Team. Nucleus is a Real-Time Operating System (RTOS) that enables 
@@ -50,7 +56,7 @@ security, power management, and deterministic performance are essential.
 
 **January 2022 – May 2022** <br>
 **Wateen Telecom Private Limited** <br>
-**Transmission Network Operations Executive (NOC) Executive** <br>
+**Transmission Network Operations Center (NOC): Intern** <br>
 
 Intern at Wateen Telecom Private Limited in Network Services and Strategic Department. I’m receiving training for the 
 position of Transmission NOC Executive. My primary objectives are to understand Dense Wavelength Division 
@@ -59,7 +65,7 @@ Huawei’s network management system iMaster NCE.
 
 **June 2019 – August 2019** <br>
 **Lahore Electric Supply Company (LESCO)** <br>
-**Manager Operations / Intern** <br>
+**Department of Operations: Intern** <br>
 
 Gained practical knowledge about how power stations operate. Trained to simulate electric power transmission 
 networks in steady-state conditions as well as over time scales of a few seconds to tens of seconds by using Power 
