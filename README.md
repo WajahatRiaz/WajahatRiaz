@@ -34,13 +34,13 @@ src="https://img.shields.io/github/followers/wajahatriaz?logo=github&style=for-t
 
 **March 2023 – Present** <br>
 **10xEngineers Technologies** <br>
-**Trainee Engineer** <br>
+**Cohort: Trainee Engineer** <br>
 
 Learning...
  
 **February 2023 – March 2023** <br>
 **10xEngineers Technologies** <br>
-**Semiconductor Industry Fellowship: Intern** <br>
+**Semiconductor Industry Fellowship: Graduate Intern** <br>
 
 Can't wait to see what this year holds for me. Wish me luck!
  
