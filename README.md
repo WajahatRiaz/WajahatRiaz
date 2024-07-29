@@ -19,18 +19,28 @@ skillset.
 
 | **Degree**                                  | **Institute**                          | **Location**     | **Year**       |
 |---------------------------------------------|----------------------------------------|------------------|----------------|
-| Masters in  Electrical Engineering          | University of Engineering & Technology | Lahore, Pakistan | Present        |
+| Masters in  Electrical Engineering          | University of Engineering & Technology | Lahore, Pakistan | August 2024    |
 | Bachelors in  Electrical Engineering        | University of Engineering & Technology | Lahore, Pakistan | August 2020    |
 | Intermediate  Pre-Engineering & Pre-Medical | Forman Christian College               | Lahore, Pakistan | September 2016 |
 | Matriculation  Science Group                | Laurelbank Public School               | Lahore, Pakistan | July 2012      |
 
 ## Experience
 
-**March 2023 – Present** <br>
+**July 2023 – Present 2023** <br>
 **10xEngineers Technologies** <br>
 **Cohort: Trainee Engineer** <br>
+Helping to build the most powerful, scalable AI accelerator on Earth by:
+• Designing scalable verification environments for a complex SoC;
+• Developing UVM-SV Scoreboards for self-checking regressions;
+• Creating Functional Coverage metrics for effective verification;
+• Formulating SystemVerilog Assertions for Formal and Simulation Environments;
+• Defining and managing vPlans with Cadence vManager;
+• Establishing automated regression environments;
+• Collaborating with Design Engineers to debug complex test scenarios.
 
-Learning...
+**March 2023 – July 2023** <br>
+**10xEngineers Technologies** <br>
+**Cohort: Associate Engineer** <br>
  
 **February 2023 – March 2023** <br>
 **10xEngineers Technologies** <br>
