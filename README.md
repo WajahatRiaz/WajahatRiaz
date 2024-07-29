@@ -26,17 +26,30 @@ skillset.
 
 ## Experience
 
-**July 2023 – Present 2023** <br>
+**Feb 2023 – Present** <br>
 **10xEngineers Technologies** <br>
-**Cohort: Trainee Engineer** <br>
-Helping to build the most powerful, scalable AI accelerator on Earth by:
-• Designing scalable verification environments for a complex SoC;
-• Developing UVM-SV Scoreboards for self-checking regressions;
-• Creating Functional Coverage metrics for effective verification;
-• Formulating SystemVerilog Assertions for Formal and Simulation Environments;
-• Defining and managing vPlans with Cadence vManager;
-• Establishing automated regression environments;
-• Collaborating with Design Engineers to debug complex test scenarios.
+**Red Oak: CPU Verification Engineer** <br>
+(Editing this section, you can peek though)<br>
+• Helped Red Oak to build an accelerating verification environment using Cloud FPGAs and paradigm-shifting tools and packages. <br>
+• Designed scalable verification environments for multicore SoC both in simulation and emulation.<br>
+• Firmware development including PCIe, OpenOCD, etc.<br>
+• Worked with the design team to verify and debug complex IPs. <br>
+• Served as the project lead for Red Oak. Oversaw entire development including design, verification, methodology and emulation. <br>
+• Closely managed the AI tools team at Red Oak to plan and build a cloud deployed generative LLM for synthesizable RTL design. <br>
+• Closely managed Clooud team at Red Oak to build new solutions for different cloud platforms. <br>
+• Helped the leadership team at Red Oak to become a part of Amazon Partner Network which was a major milestone for Red Oak.
+
+**July 2023 – Jan 2024** <br>
+**10xEngineers Technologies** <br>
+**Treaty Oak: Design Verification Engineer** <br>
+Helping to build the most powerful, scalable AI accelerator on Earth by: <br>
+• Designing scalable verification environments for a complex SoC; <br>
+• Developing UVM-SV Scoreboards for self-checking regressions; <br>
+• Creating Functional Coverage metrics for effective verification; <br>
+• Formulating SystemVerilog Assertions for Formal and Simulation Environments; <br>
+• Defining and managing vPlans with Cadence vManager; <br>
+• Establishing automated regression environments; <br>
+• Collaborating with Design Engineers to debug complex test scenarios. 
 
 **March 2023 – July 2023** <br>
 **10xEngineers Technologies** <br>
@@ -45,8 +58,6 @@ Helping to build the most powerful, scalable AI accelerator on Earth by:
 **February 2023 – March 2023** <br>
 **10xEngineers Technologies** <br>
 **Semiconductor Industry Fellowship: Graduate Intern** <br>
-
-Can't wait to see what this year holds for me. Wish me luck!
  
 **May 2022 – September 2022** <br>
 **Siemens Digital Industries Software Private Limited** <br>
