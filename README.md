@@ -1,6 +1,6 @@
 Hi! My name is Wajahat Riaz
 =====================================
-Electronics and Embedded Systems Engineer
+Senior CPU Verfification Engineer | Semiconductor Industry Fellowship Alumnus
 ------------------------------------
 
 - 👋 I’m an ingenious and devoted electronics and embedded systems engineer. I’m currently pursuing a master’s degree 
