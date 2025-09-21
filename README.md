@@ -10,4 +10,17 @@ Senior CPU Verfification Engineer | Semiconductor Industry Fellowship Alumnus
 - 👀 I’m interested in Computer Architecture and VLSI for AI, Accelerators and Compilers, FPGAs, Neuromorphic Hardwdare . 
 
 <p align="left"> <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wajahat-riaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0009-0000-3817-379X"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0009-0000-3817-379X
+    </a>
  
