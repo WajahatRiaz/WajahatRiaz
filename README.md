@@ -12,11 +12,10 @@ Senior CPU Verfification Engineer | Semiconductor Industry Fellowship Alumnus
 <p align="left"> <a href="https://www.github.com/wajahatriaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wajahat-riaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://orcid.org/0009-0000-3817-379X" 
    target="_blank" 
-   rel="me noopener noreferrer"
-   style="display: inline-flex; align-items: center; text-decoration: none;">
+   rel="me noopener noreferrer">
   <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-       alt="ORCID iD icon"
-       style="width: 1em; margin-right: 0.3em;" />
-  ORCID iD
+       alt="ORCID profile"
+       style="width: 1.2em;" />
 </a>
+
  
